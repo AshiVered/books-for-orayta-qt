@@ -1,7 +1,7 @@
 # books-for-orayta-qt
 Orayta in open source Jewish books program
 https://github.com/MosheWagner/Orayta-QT
-how to add books?
+### how to add books?
 ## in Linux 
 put the obk file in usr/share/Orayta/Books
 ## in Android
